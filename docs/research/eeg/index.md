@@ -19,5 +19,8 @@ This publication is accompanied by an [OSF archive](https://osf.io/d5egu/) that 
 **TODO:** Add information on how to use the system and to acquire the data;
 
 **TODO:** Add information on the analysis (OSF page of Chen et al has no readme!);
+The README for the OSF page of Chen et al. can be found under the wiki:
+https://osf.io/d5egu/wiki/home/
+We followed a similar format to Bracci et al.
 
 **TODO:** Also describe details of pre-processing (no pre-processing script on OSF);
